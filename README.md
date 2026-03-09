@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # Global Macro Market Terminal
 
 A Python terminal dashboard that displays live global market data including equities, commodities, volatility, and crypto.
@@ -63,10 +66,10 @@ python src/global_index_tracker.py
 ## Project Structure
 
 global-macro-market-terminal
-¦
+Â¦
 +-- src
-¦   +-- global_index_tracker.py
-¦
+Â¦   +-- global_index_tracker.py
+Â¦
 +-- requirements.txt
 +-- README.md
 +-- .gitignore
