@@ -1,5 +1,16 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Bloomberg](https://img.shields.io/badge/Bloomberg-Terminal-orange)
+
+## Market Analysis Reports
+
+### Market Analysis Report
+
+![Market Analysis Report](src/market_analysis_report.png)
+
+### Total Return Matrix
+
+![Total Return Matrix](src/total_return_matrix.png)
 
 # Global Macro Market Terminal
 
