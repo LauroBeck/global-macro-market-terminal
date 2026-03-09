@@ -12,6 +12,11 @@
 
 ![Total Return Matrix](src/total_return_matrix.png)
 
+## Sector Rotation Heatmap
+
+This visualization shows the daily performance of S&P 500 sectors.
+
+![Sector Rotation](src/sector_rotation_heatmap.png)
 # Global Macro Market Terminal
 
 A Python terminal dashboard that displays live global market data including equities, commodities, volatility, and crypto.
