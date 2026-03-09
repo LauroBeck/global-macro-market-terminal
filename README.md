@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Quant Finance](https://img.shields.io/badge/Quant-Finance-darkgreen)
+![Bloomberg Style](https://img.shields.io/badge/Terminal-Bloomberg--Style-black)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Bloomberg](https://img.shields.io/badge/Bloomberg-Terminal-orange)
-
 ## Market Analysis Reports
 
 ### Market Analysis Report
