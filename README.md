@@ -11,12 +11,14 @@
 ### Total Return Matrix
 
 ![Total Return Matrix](src/total_return_matrix.png)
+## S&P 500 Sector Rotation
 
-## Sector Rotation Heatmap
+This visualization shows the **daily performance of S&P 500 sectors**, highlighting which sectors are leading or lagging the market.
 
-This visualization shows the daily performance of S&P 500 sectors.
+Green sectors indicate **positive returns**, while red sectors represent **negative performance**.
 
-![Sector Rotation](src/sector_rotation_heatmap.png)
+![Sector Rotation Heatmap](src/sector_rotation_heatmap.png)
+
 
 # Global Macro Market Terminal
 
