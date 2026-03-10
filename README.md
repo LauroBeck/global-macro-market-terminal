@@ -1,5 +1,24 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Quant Finance](https://img.shields.io/badge/Quant-Finance-darkgreen)
+![Bloomberg Style](https://img.shields.io/badge/Terminal-Bloomberg--Style-black)
 ![License](https://img.shields.io/badge/license-MIT-green)
+## Market Analysis Reports
+
+### Market Analysis Report
+
+![Market Analysis Report](src/market_analysis_report.png)
+
+### Total Return Matrix
+
+![Total Return Matrix](src/total_return_matrix.png)
+## S&P 500 Sector Rotation
+
+This visualization shows the **daily performance of S&P 500 sectors**, highlighting which sectors are leading or lagging the market.
+
+Green sectors indicate **positive returns**, while red sectors represent **negative performance**.
+
+![Sector Rotation Heatmap](src/sector_rotation_heatmap.png)
+
 
 # Global Macro Market Terminal
 
